@@ -27,3 +27,8 @@ This is a Python-based tool that analyzes and visualizes stock price trends usin
 ```bash
 git clone https://github.com/Sweekar18/stock-trend-analyzer.git
 cd stock-trend-analyzer
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
