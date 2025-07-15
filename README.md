@@ -1,1 +1,0 @@
-# -stock-trend-analyzer
